@@ -1,0 +1,9 @@
+opencv-python
+tensorflow
+torch
+numpy
+flask
+streamlit
+flask-caching
+flask-jwt-extended
+moviepy
